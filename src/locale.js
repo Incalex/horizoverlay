@@ -262,6 +262,7 @@ const locale = {
       toggleOption10: 'Langage',
       toggleOption11: 'Max Hit',
       toggleOption12: 'Afficher les combatants sans Job',
+      toggleOption13: 'Enable streamer mode (blur all names)',
       maxCombatantsTitle: 'Combatants max',
       zoomTitle: 'Échelle',
       zoomOption1: '80%',
